@@ -1,0 +1,3 @@
+chat.ManipuladorConversa
+chat.ChatServer
+chat.GerenciadorConversas
